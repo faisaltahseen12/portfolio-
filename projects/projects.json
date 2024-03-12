@@ -2,7 +2,7 @@
   {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "image": "notystackandroid.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "SPPU Engg Prep",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
+    "image": "sppuprepandroid.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -22,7 +22,7 @@
   {
     "name": "NewsBox Android",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
+    "image": "newsboxandroid.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -32,7 +32,7 @@
   {
     "name": "Weatherly Android",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "/portfolio-/assets/images/projects/weatherlyandroid.png",
+    "image": "weatherlyandroid.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -42,7 +42,7 @@
   {
     "name": "Instagram Clone",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "image": "instagrammern.png",
     "category": "mern",
     "links": {
       "view": "",
@@ -52,7 +52,7 @@
   {
     "name": "Nest Online Store Full-Stack",
     "desc": "Full-Stack Nest with Admin Dashboard and Paytm Payment Gateway. Full-stack WebApp, Stack WebApp, ready to use for business.",
-    "image": "nest",
+    "image": "nest.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -62,7 +62,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Full-Stack Portfolio Website. Full-stack WebApp, Stack WebApp, ready to use for personal.",
-    "image": "pro",
+    "image": "pro.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -72,7 +72,7 @@
   {
     "name": "WPF Projects",
     "desc": "Full-Stack WPF Projects. Full-stack WebApp, Stack WebApp, ready to use for personal.",
-    "image": "good",
+    "image": "good.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -82,7 +82,7 @@
   {
     "name": "Weatherly Android Flutter",
     "desc": "Native android app built using Flutter, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
+    "image": "weatherlyandroid.png",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -92,7 +92,7 @@
   {
     "name": "Food Devliery Design",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "foodicious",
+    "image": "foodicious.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -102,7 +102,7 @@
   {
     "name": "Web UI Clones",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
+    "image": "webuiclones.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -112,7 +112,7 @@
   {
     "name": "Crypto Tracker",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
+    "image": "cryptotracker.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -122,7 +122,7 @@
   {
     "name": "Hulu Website",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
+    "image": "hulu.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -132,7 +132,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "portfolio1.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -142,7 +142,7 @@
   {
     "name": "Composey Website",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
+    "image": "composey.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -152,7 +152,7 @@
   {
     "name": "Webview App",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
+    "image": "webviewapp.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -162,7 +162,7 @@
   {
     "name": "PHP Banking Website",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
+    "image": "tsfbank.png",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -172,7 +172,7 @@
   {
     "name": "Bootstrap Portfolio",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
+    "image": "bootstrapportfolio.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -182,7 +182,7 @@
   {
     "name": "Bootstrap Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "image": "bootstraptemplate.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -192,7 +192,7 @@
   {
     "name": "Foodicious",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
+    "image": "foodicious.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -202,7 +202,7 @@
   {
     "name": "Food Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "image": "foodwebsite.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -212,7 +212,7 @@
   {
     "name": "WebChat Website",
     "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
+    "image": "webchat.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -222,7 +222,7 @@
   {
     "name": "Basic Banking App",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
+    "image": "basicbank.png",
     "category": "android",
     "links": {
       "view": "#",
@@ -232,7 +232,7 @@
   {
     "name": "JavaScript Issue Tracker",
     "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
+    "image": "issuetrack.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -242,7 +242,7 @@
   {
     "name": "PHP PBL Portal",
     "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
+    "image": "phppblform.png",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -252,7 +252,7 @@
   {
     "name": "Link List",
     "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
+    "image": "linklist.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -262,7 +262,7 @@
   {
     "name": "Job Finder Dummy",
     "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
+    "image": "saas.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -272,7 +272,7 @@
   {
     "name": "Old Websites",
     "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
+    "image": "oldsites.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -282,7 +282,7 @@
   {
     "name": "Resistor Color Codes",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
+    "image": "resistercolor.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -292,7 +292,7 @@
   {
     "name": "KIA Info Website",
     "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
+    "image": "kiaweb.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -302,7 +302,7 @@
   {
     "name": "Burger Shop Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
+    "image": "burgerweb.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -312,27 +312,7 @@
   {
     "name": "Indian Temples",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
+    "image": "templeweb.png",
     "category": "basicweb",
     "links": {
       "view": "#",
