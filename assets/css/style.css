@@ -209,6 +209,7 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
+  margin-top: 50px;
   flex: 1 1 40rem;
   z-index: 1;
 }
